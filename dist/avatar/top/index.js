@@ -5,7 +5,7 @@ var __extends = (this && this.__extends) || (function () {
             ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
             function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
         return extendStatics(d, b);
-    }
+    };
     return function (d, b) {
         extendStatics(d, b);
         function __() { this.constructor = d; }
@@ -17,6 +17,7 @@ var React = require("react");
 var Eyepatch_1 = require("./Eyepatch");
 var Hat_1 = require("./Hat");
 var Hijab_1 = require("./Hijab");
+var HoneyBear_1 = require("./HoneyBear");
 var LongHairBigHair_1 = require("./LongHairBigHair");
 var LongHairBob_1 = require("./LongHairBob");
 var LongHairBun_1 = require("./LongHairBun");
@@ -62,6 +63,7 @@ var Top = /** @class */ (function (_super) {
             React.createElement(Eyepatch_1.default, null, children),
             React.createElement(Hat_1.default, null, children),
             React.createElement(Hijab_1.default, null, children),
+            React.createElement(HoneyBear_1.default, null, children),
             React.createElement(Turban_1.default, null, children),
             React.createElement(WinterHat1_1.default, null, children),
             React.createElement(WinterHat2_1.default, null, children),
