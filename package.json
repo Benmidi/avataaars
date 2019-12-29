@@ -1,5 +1,5 @@
 {
-  "name": "avataaars",
+  "name": "@benmidi/avataaars",
   "version": "1.2.1",
   "description": "React component for avataaars ",
   "main": "dist/index.js",
