@@ -1,5 +1,5 @@
 import * as React from 'react';
-export default class FIXME extends React.Component {
+export default class HoneyBear extends React.Component {
     static optionValue: string;
     private mask1;
     private path1;
