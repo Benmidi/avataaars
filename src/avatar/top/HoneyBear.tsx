@@ -2,8 +2,8 @@
 import * as React from 'react'
 import { uniqueId } from 'lodash'
 
-export default class FIXME extends React.Component {
-  static optionValue = 'FIXME'
+export default class HoneyBear extends React.Component {
+  static optionValue = 'HoneyBear'
     private mask1 = uniqueId('react-mask-')
   private path1 = uniqueId('react-path-') 
 
